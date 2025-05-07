@@ -1,5 +1,13 @@
 # Majexa
 This game was made for our first Game Jam at Humber College's Game Programming Program
+
+Link to game:
+https://gamejamgroup11.itch.io/majexa 
+
+Link to game’s YouTube video:
+https://www.youtube.com/watch?v=mHD4xJI7w1A
+
+
 # Group 11 Members
 William Schembri (N01286499)
 
@@ -24,6 +32,7 @@ Game Engine: Unity Engine
 Our game “Majexa” is a top-down styled shoot 'em game that takes place in future outer space where you, the player, are tasked to defeat 5 waves of sci-fi-inspired enemies. Play as an arrogant bounty hunter named: “Greer'sa”, he was invited to an illegal bounty hunter organization called the: “Nagradas,” he declined their offer because he was “too good for them,” and then realized that their leader had a bounty of 400,00 Gems. After he found out this information he hopped into his self-proclaimed legendary ship: “The Scarlet Mantis” to go claim the leader’s bounty for himself. To see if “Greer'sa” succeeds play our game and find out!
 
 Key features:
+
 -Three unique enemies to battle in space!
 
 -A tough final boss.
@@ -45,9 +54,3 @@ Key features:
   -Damage.
   
   -Fire Rate.
-
-Link to game:
-https://gamejamgroup11.itch.io/majexa 
-
-Link to game’s YouTube video:
-https://www.youtube.com/watch?v=mHD4xJI7w1A
